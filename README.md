@@ -11,8 +11,7 @@ This is me!
 ![Google](https://img.shields.io/badge/-GoogleAPI-303030?style=for-the-badge&logo=google&logoColor=E138F1)
 ![Java](https://img.shields.io/badge/-Java-303030?style=for-the-badge&logo=java&logoColor=F0931D)
 ![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)
-![Unity](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=unity&logoColor=C8C8C8)
-![WPF](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=wpf&logoColor=2EB3D4)
+![Unity](https://img.shields.io/badge/-Unity-303030?style=for-the-badge&logo=unity&logoColor=C8C8C8)
 
 Social media
 
