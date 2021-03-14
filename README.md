@@ -14,7 +14,7 @@
 ![Unity](https://img.shields.io/badge/-Unity-303030?style=for-the-badge&logo=unity&logoColor=C8C8C8)
 
 ### Social media
-[![YouTube](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)](https://www.youtube.com/channel/UCzAB1nO4frSBSV5CYbeCzHQ)
+[![YouTube](https://img.shields.io/badge/-YouTube-303030?style=for-the-badge&logo=YouTube)](https://www.youtube.com/channel/UCzAB1nO4frSBSV5CYbeCzHQ)
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=6E85D3)](https://vk.com/amphibian_kuro)
 ![Discord](https://img.shields.io/badge/-DOSMOT%3f%239594-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-303030?style=for-the-badge&logo=hackerrank&logoColor=D2D5DA)](https://www.hackerrank.com/TaggedSalamander)
