@@ -1,4 +1,4 @@
-![Header](https://github.com/TaggedDev/TaggedDev/blob/main/src/giphy.gif)
+![Header](https://github.com/TaggedDev/TaggedDev/blob/main/src/newgif.gif)
 
 ## Russian beginner .NET developer. I am currently learning Java and mastering .NET.
 
