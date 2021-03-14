@@ -1,4 +1,11 @@
-### Hi there 👋
+Header
+
+This is me!
+
+Tools
+![C#](https://img.shields.io/badge/C#-303030?style=for-the-badge&logo=c%35;&logoColor=9d24d1)
+
+Social media
 
 <!--
 **TaggedDev/TaggedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
