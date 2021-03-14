@@ -1,8 +1,8 @@
-[!Header](https://vk.com/amphibian_kuro)
+![Header](https://vk.com/amphibian_kuro)
 
 ## Russian beginner .NET developer. I am currently learning Java and mastering .NET.
 
-###Tools
+### Tools
 ![Python](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
 ![Discord](https://img.shields.io/badge/-Discord-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
 ![C#](https://img.shields.io/badge/-C%23-303030?style=for-the-badge&logo=.net&logoColor=E138F1)
@@ -13,7 +13,7 @@
 ![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)
 ![Unity](https://img.shields.io/badge/-Unity-303030?style=for-the-badge&logo=unity&logoColor=C8C8C8)
 
-###Social media
+### Social media
 [![YouTube](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)](https://www.youtube.com/channel/UCzAB1nO4frSBSV5CYbeCzHQ)
 [![VK](https://img.shields.io/badge/-VK-303030?style=for-the-badge&logo=VK&logoColor=6E85D3)](https://vk.com/amphibian_kuro)
 ![Discord](https://img.shields.io/badge/-DOSMOT%3f%239594-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
