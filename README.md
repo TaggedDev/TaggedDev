@@ -1,6 +1,6 @@
-Header
+[!Header](https://vk.com/amphibian_kuro)
 
-This is me!
+## Russian beginner .NET developer. I am currently learning Java and mastering .NET.
 
 ###Tools
 ![Python](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
