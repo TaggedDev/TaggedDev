@@ -5,10 +5,10 @@ This is me!
 Tools
 ![Python](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
 ![Discord](https://img.shields.io/badge/-Discord-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
-![C#](https://img.shields.io/badge/-C%35-303030?style=for-the-badge&logo=csharp&logoColor=642076)
+![C#](https://img.shields.io/badge/-C%23-303030?style=for-the-badge&logo=csharp&logoColor=642076)
 ![SQL](https://img.shields.io/badge/-SQL-303030?style=for-the-badge&logo=sql&logoColor=B0C1C8)
 ![MSSQL](https://img.shields.io/badge/-MSSQL-303030?style=for-the-badge&logo=mssql&logoColor=D2D5DA)
-![C++](https://img.shields.io/badge/-C%43%43-303030?style=for-the-badge&logo=cplusplus&logoColor=6295CB)
+![C++](https://img.shields.io/badge/-C%2b%2b-303030?style=for-the-badge&logo=cplusplus&logoColor=6295CB)
 
 Social media
 
