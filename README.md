@@ -3,13 +3,13 @@ Header
 This is me!
 
 Tools
-![C#](https://img.shields.io/badge/C#-303030?style=for-the-badge&logo=c%2b%2b;&logoColor=9d24d1)
+![C#](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
 
 Social media
 
 <!--
 **TaggedDev/TaggedDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+5a00ad
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
