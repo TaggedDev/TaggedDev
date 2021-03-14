@@ -6,8 +6,8 @@ Tools
 ![Python](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
 ![Discord](https://img.shields.io/badge/-Discord-303030?style=for-the-badge&logo=discord&logoColor=6E85D3)
 ![C#](https://img.shields.io/badge/-C%23-303030?style=for-the-badge&logo=.net&logoColor=E138F1)
-![SQL](https://img.shields.io/badge/-SQL-303030?style=for-the-badge&logo=mysql&logoColor=B0C1C8)
-![MSSQL](https://img.shields.io/badge/-MSSQL-303030?style=for-the-badge&logo=mssql&logoColor=D2D5DA)
+![SQL](https://img.shields.io/badge/-Azure-303030?style=for-the-badge&logo=azure&logoColor=B0C1C8)
+![MSSQL](https://img.shields.io/badge/-MSSQL-303030?style=for-the-badge&logo=sqlite&logoColor=D2D5DA)
 ![C++](https://img.shields.io/badge/-C%2b%2b-303030?style=for-the-badge&logo=C%2b%2b&logoColor=6295CB)
 
 Social media
