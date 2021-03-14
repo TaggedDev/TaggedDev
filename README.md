@@ -10,8 +10,9 @@ This is me!
 ![C++](https://img.shields.io/badge/-C%2b%2b-303030?style=for-the-badge&logo=C%2b%2b&logoColor=6295CB)
 ![Google](https://img.shields.io/badge/-GoogleAPI-303030?style=for-the-badge&logo=google&logoColor=E138F1)
 ![Java](https://img.shields.io/badge/-Java-303030?style=for-the-badge&logo=java&logoColor=F0931D)
-![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=java&logoColor=1F9BDA)
+![Telegram](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=telegram&logoColor=1F9BDA)
 ![Unity](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=unity&logoColor=C8C8C8)
+![WPF](https://img.shields.io/badge/-Telegram-303030?style=for-the-badge&logo=wpf&logoColor=2EB3D4)
 
 Social media
 
