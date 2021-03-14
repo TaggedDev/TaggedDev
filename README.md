@@ -1,4 +1,4 @@
-![Header](https://vk.com/amphibian_kuro)
+![Header](https://github.com/TaggedDev/TaggedDev/blob/main/src/giphy.gif)
 
 ## Russian beginner .NET developer. I am currently learning Java and mastering .NET.
 
