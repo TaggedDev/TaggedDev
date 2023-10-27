@@ -1,6 +1,6 @@
 ![Header](https://github.com/TaggedDev/TaggedDev/blob/main/src/giphy.gif)
 
-## Russian beginner .NET developer. I am currently learning and mastering C#
+## Unity developer from Moscow
 
 ### Tools
 ![Python](https://img.shields.io/badge/-Python-303030?style=for-the-badge&logo=python&logoColor=d5d914)
